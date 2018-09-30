@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538098708 source:e:\academypens\kelas_3\prak._pengantar_grafika_komputer_achmad_basuki\opengl-glut-\test\main.c
+	<windows.h>
+	<GL/gl.h>
+

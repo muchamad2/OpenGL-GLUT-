@@ -1,9 +1,7 @@
 # depslib dependency file v1.0
-1538098082 source:e:\academypens\kelas_3\prak._pengantar_grafika_komputer_achmad_basuki\opengl-glut-\drawing2d\main.cpp
+1538098594 source:e:\academypens\kelas_3\prak._pengantar_grafika_komputer_achmad_basuki\opengl-glut-\transformasi\main.c
 	<windows.h>
 	<GL/glut.h>
-	<stdlib.h>
-	<math.h>
 
 1301111162 c:\program files (x86)\codeblocks\mingw\include\windows.h
 	<winresrc.h>
@@ -219,6 +217,12 @@
 1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
 	<stddef.h>
 	<GL/gl.h>
+
+1538101844 source:e:\academypens\kelas_3\prak._pengantar_grafika_komputer_achmad_basuki\opengl-glut-\transformasi\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
 
 1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
 	<_mingw.h>

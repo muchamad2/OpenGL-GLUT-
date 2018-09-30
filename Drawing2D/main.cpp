@@ -105,6 +105,7 @@ void userDraw(){
     glColor3f(0.7,0,0);
     FillPolygon(circle2,360);
 
+    glLineWidth(3);
     for(int i=0;i<360;i++){
         float t=(float)i/57.3;
         //r = 10*cos(t+85);
